@@ -1,0 +1,35 @@
+.botonesCRUD button{
+    background-color: #ffff;
+    border-radius: 30vh;
+    border: #002d6d solid 2px;
+    width: 20vh;
+    height: 6vh;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    margin: 0 10px;
+}
+.barraBusqueda{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+    align-items: center;
+}
+.busqueda{
+    background-color: white !important;
+}
+.contenido{
+    flex: 1;
+    padding: 20px;
+    align-items: top !important;
+    gap: 100px;
+}
+thead th{
+    background-color: #002d6d !important;
+    color: white !important;
+}
+.col-carrera {
+    width: 35%;
+}
+.col-nombres{
+    width: 25%;
+}
